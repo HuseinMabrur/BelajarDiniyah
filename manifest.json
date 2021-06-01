@@ -1,0 +1,39 @@
+{
+  "name": "Belajar Diniyah",
+  "short_name": "Diniyah",
+  "scope": "https://www.diniyah.my.id/",
+  "start_url": "URL HOMEPAGE",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog tentang materi pendidikan Diniyah untuk Sekolah Tingkat Dasar di SDN / Sederajat",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-i4ptxzxV0nU/YLW0v6QbuII/AAAAAAAAG28/GO4T0953mZgJGKXGRXFwUjDLsYOv1BnNQCLcBGAsYHQ/s48/Logo%2BFavicon%2Bdiniyah%2Bbaru%2B512px.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-i4ptxzxV0nU/YLW0v6QbuII/AAAAAAAAG28/GO4T0953mZgJGKXGRXFwUjDLsYOv1BnNQCLcBGAsYHQ/s72/Logo%2BFavicon%2Bdiniyah%2Bbaru%2B512px.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-i4ptxzxV0nU/YLW0v6QbuII/AAAAAAAAG28/GO4T0953mZgJGKXGRXFwUjDLsYOv1BnNQCLcBGAsYHQ/s96/Logo%2BFavicon%2Bdiniyah%2Bbaru%2B512px.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-i4ptxzxV0nU/YLW0v6QbuII/AAAAAAAAG28/GO4T0953mZgJGKXGRXFwUjDLsYOv1BnNQCLcBGAsYHQ/s144/Logo%2BFavicon%2Bdiniyah%2Bbaru%2B512px.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-i4ptxzxV0nU/YLW0v6QbuII/AAAAAAAAG28/GO4T0953mZgJGKXGRXFwUjDLsYOv1BnNQCLcBGAsYHQ/s168/Logo%2BFavicon%2Bdiniyah%2Bbaru%2B512px.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-i4ptxzxV0nU/YLW0v6QbuII/AAAAAAAAG28/GO4T0953mZgJGKXGRXFwUjDLsYOv1BnNQCLcBGAsYHQ/s192/Logo%2BFavicon%2Bdiniyah%2Bbaru%2B512px.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-i4ptxzxV0nU/YLW0v6QbuII/AAAAAAAAG28/GO4T0953mZgJGKXGRXFwUjDLsYOv1BnNQCLcBGAsYHQ/s512/Logo%2BFavicon%2Bdiniyah%2Bbaru%2B512px.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
